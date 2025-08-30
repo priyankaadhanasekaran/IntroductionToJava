@@ -11,6 +11,10 @@ public class SumComparision {
 		if ((a + b) > (c + d)) {
 			System.out.println(" the sum of A and B is greter than C and D");
 		}
+		else
+		{
+			System.out.println("The sum  of a and b is lesser than c and d");
+		}
 		 
 
 	}
